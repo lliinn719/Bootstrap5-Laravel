@@ -1,0 +1,10 @@
+:root {
+    --primary: #ffc800;
+}
+.btn-primary {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+.primaryText {
+    color: var(--primary);
+}
